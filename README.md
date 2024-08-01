@@ -93,7 +93,7 @@ source env/bin/activate
 ```
 
 ## Installing Dependencies
-The task dependencies are listed in a file named requirements.txt located in the 'code' folder. To install these dependencies, make sure your virtual environment is activated, and run:
+The task dependencies are listed in a file named requirements.txt located in the 'src' folder. To install these dependencies, make sure your virtual environment is activated, and run:
 ```bash
 pip install -r src/requirements.txt
 ```
