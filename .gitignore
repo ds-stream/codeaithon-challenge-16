@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 #solution folder only stored locally by task author
-/solution
+solution/

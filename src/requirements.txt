@@ -4,3 +4,7 @@ pytest==7.1.2
 fastapi
 sqlmodel
 uvicorn[standard]
+
+httpx
+pydantic
+sqlalchemy

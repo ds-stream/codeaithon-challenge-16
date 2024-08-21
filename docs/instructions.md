@@ -1,22 +1,24 @@
-# Task Management Application Challenge
+# codeaithon-challenge-16
 
-Welcome to the Task Management Application Challenge! This challenge is designed to test your ability to create a RESTful API using FastAPI and SQLModel. Your goal is to build a backend service that allows users to manage tasks and organize them into boards.
+An instruction for codeaithon challenge 16 - Task Management Application
 
-## Challenge Overview
+## Short Description
 
-You are tasked with creating an API with the following features:
+In this challenge, you will demonstrate your ability to develop a RESTful API using FastAPI and SQLModel. Your objective is to create a robust backend service that empowers users to efficiently manage tasks and organize them into customizable boards.
 
-- **Task Management**: Users should be able to create, read, update, and delete tasks.
-- **Board Management**: Users should be able to create, read, update, and delete boards. A board is a collection of tasks.
-- **Task Assignment**: Users should be able to assign tasks to a specific board or remove them from a board.
+Your Mission
+Build an API that offers the following core features:
 
-## Structure
+- **Task Management**: Implement CRUD operations (Create, Read, Update, Delete) for tasks, allowing users to manage their to-do items.
+- **Board Management**: Enable users to create, view, update, and delete boards, which serve as containers for related tasks.
+- **Task Assignment**: Provide functionality for users to assign tasks to specific boards or remove them, helping organize tasks logically.
+
+## Project Structure
 
 - `main.py`: The entry point of your application containing the API endpoints.
 - `models.py`: Definitions of SQLModel entities for tasks and boards.
 - `schemas.py`: Pydantic schemas for request and response models.
 - `database.py`: Database session management and configuration.
-
 
 ## Task Model
 
