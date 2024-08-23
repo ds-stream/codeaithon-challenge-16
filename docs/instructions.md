@@ -2,7 +2,7 @@
 
 An instruction for codeaithon challenge 16 - Task Management Application
 
-## Short Description
+## Short description
 
 In this challenge, you will demonstrate your ability to develop a RESTful API using FastAPI and SQLModel. Your objective is to create a robust backend service that empowers users to efficiently manage tasks and organize them into customizable boards.
 
